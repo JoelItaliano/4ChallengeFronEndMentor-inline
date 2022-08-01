@@ -1,0 +1,14 @@
+body{
+    flex-direction: row;
+    
+}
+
+main{
+    margin-top: 80px;
+    box-sizing: content-box;
+    justify-items: center;
+}
+
+.attribution{
+    margin: 10px;
+}
